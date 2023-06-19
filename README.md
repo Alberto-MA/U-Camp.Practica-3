@@ -9,5 +9,4 @@ Esto lo hace mediante el uso de una API comunicandose con una base de datos NoSQ
 * Express
 * React
 * Node
-Con
 * Typescript
