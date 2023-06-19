@@ -1,3 +1,13 @@
-# Bienvenido al repo del Dashboard
+# Bienvenido a mi Dashbord App
+Este es un proyecto sencillo construido con el stack MERN utilizando Typescript.
+Consiste en una aplicacion a la cual se le pueden agregar videos, eliminarlos y/o editarlos.
 
-Este proyecto esta construido con React, Typescript y Bootstrap. Y se muestra como se realiza la comunicacion con una API
+Esto lo hace mediante el uso de una API comunicandose con una base de datos NoSQL la cual es MongoDB.
+
+# Tecnologias Utilizadas
+* Mongoose
+* Express
+* React
+* Node
+Con
+* Typescript
